@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.card-title {
+  color:#007bff;
+  padding-top: 10px;
+}
+.paddingTop10 {
+  padding-top: 20px;
+}
+.card-block {
+  padding-left: 20px;
+}
+.filterColor {
+ color: #03fc56;
+ cursor: pointer;
+}
